@@ -8,7 +8,7 @@ C++ / Python Developer
 ✔️Ищу компанию для оформления ученического договора или стажировки.
 
 * 🌍  I'm based in Moscow
-* ✉️  You can contact me at [![m0khm@yandex.ru](https://img.shields.io/badge/m0khm@yandex.ru-yellow.svg)](https://mail.yandex.ru/?uid=612396888#inbox)
+* ✉️  You can contact me at [![m0khm@yandex.ru](https://img.shields.io/badge/m0khm@yandex.ru-blue.svg)](https://mail.yandex.ru/?uid=612396888#inbox)
 * 🧠  I'm learning SQL
 
 ### Skills
