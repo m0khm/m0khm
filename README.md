@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Skills:
 ![C++ License](https://img.shields.io/badge/C++-blue.svg) ![](https://img.shields.io/badge/C%23-violet.svg) ![](https://img.shields.io/badge/Python-green.svg)
- https://img.shields.io/badge/any_text-blue
+![]( https://img.shields.io/badge/any_text-you_like-blue)
