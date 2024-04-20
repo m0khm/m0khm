@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there i am Michael 👋
 
 <!--
 **m0khm/m0khm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Skills:
 ![C++ License](https://img.shields.io/badge/C++-blue.svg) ![](https://img.shields.io/badge/C%23-violet.svg) ![](https://img.shields.io/badge/Python-green.svg)
