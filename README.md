@@ -1,4 +1,4 @@
-### Hi there i am Michael 👋
+### Hi there I'm Michael 👋
 
 <!--
 **m0khm/m0khm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
