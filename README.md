@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![C++ License](https://img.shields.io/badge/C++-blue.svg)
+![C++ License](https://img.shields.io/badge/C++-blue.svg) ![](https://img.shields.io/badge/Python-green.svg)
