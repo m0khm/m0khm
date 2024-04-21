@@ -13,6 +13,14 @@ C++ / Python Developer
 * 🧠  Прямо сейчас я изучаю Python
 ----------------------
 
+###
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+###
+
 ### Skills
 
 <p align="left">
