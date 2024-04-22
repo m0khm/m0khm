@@ -39,7 +39,7 @@ C++ / Python Developer
   <a href="https://vk.com/m0k4m" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" />
   </a>
-  <a href="https://www.youtube.com/@m0khm" target="_blank" rel="noreferrer">
+  <a href="https://www.youtube.com/channel/UCWurDxx8K0ArADXld-XnuJw" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
   </a>
   <a href="https://www.twitch.tv/m0khm" target="_blank" rel="noreferrer">
