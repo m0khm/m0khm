@@ -1,3 +1,8 @@
+<div <div id="badges">
+ <p align="right">
+<img src="https://komarev.com/ghpvc/?username=m0khm&style=flat-square&color=blue" alt=""/>
+</div>
+
 ### Hi there I'm Michael 👋
 
 
@@ -31,11 +36,6 @@ C++ / Qt Developer
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 </p>
-</div>
-
-<div <div id="badges">
- <p align="right">
-<img src="https://komarev.com/ghpvc/?username=m0khm&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### Socials
